@@ -1,4 +1,4 @@
-## **Superstore Sales Analysis**- Business Intelligence Analysis 
+# **Superstore Sales Analysis**- Business Intelligence Analysis 
 
 
 **Dataset:** Kaggle Superstore Sales 
